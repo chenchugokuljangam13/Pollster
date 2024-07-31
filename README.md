@@ -15,7 +15,7 @@ Pollster is a web application for creating, managing, and participating in polls
 - **Backend**: Django, Python
 - **Frontend**: HTML, CSS, JavaScript, Bootstrap
 - **Database**: SQLite (development), PostgreSQL/MySQL (production)
-- **Deployment**: Docker, Nginx, Gunicorn, AWS/GCP
+- **Deployment**: AWS
 
 ## Installation
 
